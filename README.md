@@ -32,8 +32,6 @@
 ![GitHub Desktop][github-desktop]
 [![Visual Studio Code][visual-studio-code]](https://github.com/betavs/betavs/tree/main/.vscode)
 
-### Reach Me 📫
-
 [typing]: https://readme-typing-svg.demolab.com?font=Fira+Code&height=28&vCenter=true&lines=Hi+there+👋;Hello+World+👋
 [html5]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff
 [css3]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff
